@@ -1,7 +1,6 @@
-# 🚗 AutoPredict Pro – AI-Powered Car Price Prediction
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff4b4b,100:f9c74f&height=180&section=header&text=🍽️%20Car%20Price%20Prediction%20Using%20Python&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff4b4b,100:f9c74f&height=180&section=header&text=%20AI%20Powered%20Car%20Price%20Prediction&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 AutoPredict Pro is an end-to-end **Machine Learning & Deep Learning web application** that predicts the **market value of used cars** based on technical specifications, usage details, and seller information. The system provides accurate, data-driven price estimates through a **professional Streamlit interface**.
 
