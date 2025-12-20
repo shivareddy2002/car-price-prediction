@@ -60,22 +60,6 @@ The application follows a structured pipeline to ensure data integrity and predi
 - **TensorFlow / Keras:** Deep Learning ANN architecture  
 - **Pandas & NumPy:** Data manipulation and numerical computation  
 
----
-
-## 📂 Project Structure
-
-```text
-car-price-prediction/
-├── app.py                     # Main Streamlit application script
-├── rf_model.pkl               # Trained Random Forest model (Scikit-learn)
-├── dl_model.h5                # Trained Deep Learning model (Keras/TF)
-├── preprocessor.pkl           # Feature preprocessing pipeline
-├── y_scaler.pkl               # Target scaler for DL model
-├── options.pkl                # Dropdown feature options for UI
-├── requirements.txt           # Python project dependencies
-├── assets/                    # Image assets (car.png, logo.png)
-└── README.md                  # Project documentation
-
 ## 🔍 Features
 
 ### ✅ Core Features
@@ -125,3 +109,17 @@ car-price-prediction/
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f9c74f,100:ff4b4b&height=120&section=footer"/>
 </p>
+
+## 📂 Project Structure
+
+```text
+car-price-prediction/
+├── app.py                     # Main Streamlit application script
+├── rf_model.pkl               # Trained Random Forest model (Scikit-learn)
+├── dl_model.h5                # Trained Deep Learning model (Keras/TF)
+├── preprocessor.pkl           # Feature preprocessing pipeline
+├── y_scaler.pkl               # Target scaler for DL model
+├── options.pkl                # Dropdown feature options for UI
+├── requirements.txt           # Python project dependencies
+├── assets/                    # Image assets (car.png, logo.png)
+└── README.md                  # Project documentation
