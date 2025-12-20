@@ -1,0 +1,19 @@
+# Data Manipulation & Math
+pandas
+numpy
+
+# Machine Learning & Deep Learning
+scikit-learn
+tensorflow
+
+# Data Visualization
+matplotlib
+seaborn
+
+# Streamlit App & Frontend
+streamlit
+streamlit-lottie
+requests
+
+# Serialization
+pickle-mixin
