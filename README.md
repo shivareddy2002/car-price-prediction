@@ -1,12 +1,12 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff4b4b,100:f9c74f&height=180&section=header&text=%20AI%20Powered%20Car%20Price%20Prediction&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff4b4b,100:f9c74f&height=180&section=header&text=🚗 %20AI%20Powered%20Car%20Price%20Prediction&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
-
-## 🚗 AutoPredict Pro – AI Powered Car Price Prediction
 
 **AutoPredict Pro** is an end-to-end **Machine Learning & Deep Learning web application** that predicts the **market value of used cars** based on technical specifications, usage details, and seller information.  
 The system delivers **accurate, data-driven price estimates** through a **professional Streamlit interface**.
+
+---
 
 🔗 **Live Demo**:  
 👉 https://car-price-prediction-pro.streamlit.app/
@@ -114,12 +114,32 @@ The application follows a structured pipeline to ensure data integrity and predi
 🎓 B.Tech CSE (Data Science), RGMCET (2021–2025)  
 🎯 Aspiring Data Analyst | Python • SQL • Power BI • Data Science  
 📍 Open to **Internships & Job Opportunities**
+## 📌 Project Workflow
+
+```mermaid
+flowchart LR
+    A[Importing Libraries] --> B[Loading Car Price Dataset]
+    B --> C[Data Cleaning & Feature Engineering]
+    C --> D[Preprocessing: Encoding & Scaling]
+    D --> E[Model Training: Random Forest / ANN]
+    E --> F[Model Evaluation & Selection]
+    F --> G[Prediction Output]
+    G --> H[Deployment: Streamlit Web App]
+
+    %% Styles
+    style A fill:#FFD54F,stroke:#F57F17,stroke-width:2px,color:#000;
+    style B fill:#4FC3F7,stroke:#0277BD,stroke-width:2px,color:#fff;
+    style C fill:#AED581,stroke:#33691E,stroke-width:2px,color:#000;
+    style D fill:#FFCC80,stroke:#EF6C00,stroke-width:2px,color:#000;
+    style E fill:#BA68C8,stroke:#4A148C,stroke-width:2px,color:#fff;
+    style F fill:#81D4FA,stroke:#01579B,stroke-width:2px,color:#000;
+    style G fill:#FF8A65,stroke:#BF360C,stroke-width:2px,color:#fff;
+    style H fill:#90CAF9,stroke:#0D47A1,stroke-width:2px,color:#000;
+```
 
 ### 📬 Contact Me
 - 📞 **+91 9346493592**  
-- 💼 [LinkedIn](https://www.linkedin.com/in/lomada-siva-gangi-reddy-a64197280/)  
-- 🌐 [GitHub](https://github.com/shivareddy2002)  
-- 🚀 [Portfolio](https://lsgr-portfolio-pulse.lovable.app/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/lomada-siva-gangi-reddy-a64197280/)  🌐 [GitHub](https://github.com/shivareddy2002)  🚀 [Portfolio](https://lsgr-portfolio-pulse.lovable.app/)  
 
 ---
 
