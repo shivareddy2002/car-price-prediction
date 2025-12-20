@@ -2,6 +2,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff4b4b,100:f9c74f&height=180&section=header&text=%20AI%20Powered%20Car%20Price%20Prediction&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
+
 AutoPredict Pro is an end-to-end **Machine Learning & Deep Learning web application** that predicts the **market value of used cars** based on technical specifications, usage details, and seller information. The system provides accurate, data-driven price estimates through a **professional Streamlit interface**.
 
 🔗 **Live Demo**: [AutoPredict Pro Web App](https://car-price-prediction-pro.streamlit.app/)
@@ -11,10 +12,10 @@ AutoPredict Pro is an end-to-end **Machine Learning & Deep Learning web applicat
 ## 📌 Problem Statement
 
 Pricing used cars manually is difficult due to multiple influencing factors such as:
-- Manufacturing year and Depreciation.
-- Mileage and engine capacity.
-- Fuel type and transmission modes.
-- Ownership history and brand equity.
+- Manufacturing year and depreciation  
+- Mileage and engine capacity  
+- Fuel type and transmission modes  
+- Ownership history and brand equity  
 
 This often results in inconsistent pricing and poor decision-making for both buyers and sellers. **AutoPredict Pro** solves this by using AI models to deliver **fair and reliable car price predictions**.
 
@@ -24,45 +25,40 @@ This often results in inconsistent pricing and poor decision-making for both buy
 
 The application follows a structured pipeline to ensure data integrity and prediction accuracy:
 
-
-
-1. **User Input:** Features collected via the Streamlit UI.
-2. **Data Validation:** Checking for logical consistency in inputs.
-3. **Preprocessing:** Categorical encoding (One-Hot) and Feature Scaling via the saved pipeline.
-4. **Model Inference:** Data is passed to either the **Random Forest** or **ANN** model.
-5. **Output:** The predicted value is inverse-transformed and displayed in INR.
+1. **User Input:** Features collected via the Streamlit UI  
+2. **Data Validation:** Logical consistency checks on inputs  
+3. **Preprocessing:** One-Hot Encoding and Feature Scaling using a saved pipeline  
+4. **Model Inference:** Data passed to either the **Random Forest** or **ANN** model  
+5. **Output:** Predicted value inverse-transformed and displayed in INR  
 
 ---
 
 ## 🧠 Models Used
 
 ### 1️⃣ Random Forest Regressor (Machine Learning)
-- Handles non-linear relationships effectively by aggregating multiple decision trees.
-- Highly robust to outliers and prevents overfitting.
-- **Best suited for:** General market trends and older/mid-range vehicles.
+- Handles non-linear relationships effectively by aggregating multiple decision trees  
+- Highly robust to outliers and prevents overfitting  
+- **Best suited for:** General market trends and older/mid-range vehicles  
 
 ### 2️⃣ Artificial Neural Network (Deep Learning)
-- A multi-layer dense neural network built with TensorFlow/Keras.
-- Learns complex hidden patterns within the high-dimensional feature space.
-- **Best suited for:** Capturing subtle price variations in premium and modern vehicles.
+- Multi-layer dense neural network built using TensorFlow/Keras  
+- Learns complex hidden patterns within high-dimensional feature space  
+- **Best suited for:** Capturing subtle price variations in premium and modern vehicles  
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Frontend & Deployment
-- **Streamlit:** For the interactive web dashboard.
-- **HTML/CSS:** Custom styling for the "Glass-morphism" UI effect.
-- **Lottie:** Smooth animations for enhanced UX.
+- **Streamlit:** Interactive web dashboard  
+- **HTML/CSS:** Custom styling with glass-morphism UI effects  
+- **Lottie:** Smooth animations for enhanced user experience  
 
 ### Backend & Machine Learning
-- **Python:** Core programming language.
-- **Scikit-learn:** For Random Forest and preprocessing.
-- **TensorFlow / Keras:** For the Deep Learning ANN architecture.
-- **Pandas & NumPy:** For data manipulation and numerical computation.
-
-### Model Persistence
-- **Joblib / Pickle:** For serializing the trained models and scalers.
+- **Python:** Core programming language  
+- **Scikit-learn:** Random Forest and preprocessing pipeline  
+- **TensorFlow / Keras:** Deep Learning ANN architecture  
+- **Pandas & NumPy:** Data manipulation and numerical computation  
 
 ---
 
@@ -79,6 +75,7 @@ car-price-prediction/
 ├── requirements.txt           # Python project dependencies
 ├── assets/                    # Image assets (car.png, logo.png)
 └── README.md                  # Project documentation
+
 ## 🔍 Features
 
 ### ✅ Core Features
@@ -90,8 +87,6 @@ car-price-prediction/
 - **Feature Importance:** Visualizes the impact of key features such as Manufacturing Year, Max Power, and Kilometers Driven on car price.
 - **Depreciation Trends:** Insights into how vehicle value decreases over time.
 - **Market Demand Indicators:** Popularity analysis of fuel types and transmission modes.
-
----
 
 ## 🧪 Input Parameters
 
@@ -107,7 +102,6 @@ car-price-prediction/
 | Owner | Number of previous owners |
 | Seller Type | Individual or Professional Dealer |
 
----
 
 ## 🔮 Future Enhancements
 
@@ -115,6 +109,7 @@ car-price-prediction/
 - 📸 **Computer Vision:** Image-based vehicle damage detection for automatic price correction.
 - 📉 **Live Market Data:** Integration with real-time used car listings using APIs.
 - 🏢 **B2B Dashboard:** Bulk valuation and analytics tools for car dealerships.
+
 ## 👨‍💻 Author  
 
 **Lomada Siva Gangi Reddy**  
