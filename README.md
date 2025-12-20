@@ -3,7 +3,6 @@
 </p>
 
 
-
 **AutoPredict Pro** is an end-to-end **Machine Learning & Deep Learning web application** that predicts the **market value of used cars** based on technical specifications, usage details, and seller information.  
 The system delivers **accurate, data-driven price estimates** through a **professional Streamlit interface**.
 
