@@ -142,9 +142,10 @@ flowchart LR
 **Lomada Siva Gangi Reddy**  
 - 🎓 B.Tech CSE (Data Science), RGMCET (2021–2025)  
 - 💡 Interests: Python | Machine Learning | Deep Learning | Data Science  
-- 📍 Open to **Internships & Job Offers**  
+- 📍 Open to **Internships & Job Offers**
+  
+   **Contact Me**:  
 
-📬 **Contact Me**:  
 - 📧 **Email**: lomadasivagangireddy3@gmail.com  
 - 📞 **Phone**: 9346493592  
 - 💼 [LinkedIn](https://www.linkedin.com/in/lomada-siva-gangi-reddy-a64197280/)  🌐 [GitHub](https://github.com/shivareddy2002)  🚀 [Portfolio](https://lsgr-portfolio-pulse.lovable.app/)
