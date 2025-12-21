@@ -143,8 +143,8 @@ flowchart LR
 - 🎓 B.Tech CSE (Data Science), RGMCET (2021–2025)  
 - 💡 Interests: Python | Machine Learning | Deep Learning | Data Science  
 - 📍 Open to **Internships & Job Offers**
-  
-   **Contact Me**:  
+
+ **Contact Me**:  
 
 - 📧 **Email**: lomadasivagangireddy3@gmail.com  
 - 📞 **Phone**: 9346493592  
