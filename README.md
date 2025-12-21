@@ -147,7 +147,7 @@ flowchart LR
 📬 **Contact Me**:  
 - 📧 **Email**: lomadasivagangireddy3@gmail.com  
 - 📞 **Phone**: 9346493592  
-- 💼 **LinkedIn**: [linkedin.com/in/lomada-siva-gangi-reddy-a64197280](https://www.linkedin.com/in/lomada-siva-gangi-reddy-a64197280/)  🌐 **GitHub**: [github.com/shivareddy2002](https://github.com/shivareddy2002)  🚀 **Portfolio**: [lsgr-portfolio-pulse.lovable.app](https://lsgr-portfolio-pulse.lovable.app/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/lomada-siva-gangi-reddy-a64197280/)  🌐 [GitHub](https://github.com/shivareddy2002)  🚀 [Portfolio](https://lsgr-portfolio-pulse.lovable.app/)
 
 ---
 
