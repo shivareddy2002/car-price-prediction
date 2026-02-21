@@ -78,7 +78,7 @@ with st.sidebar:
         [Portfolio](https://lsgr-portfolio-pulse.vercel.app/)
     """)
 # ==========================================
-# 4. PAGE LOGIC
+# 4. PAGE LOGIC 
 # ==========================================
 
 # --- PAGE 1: HOME ---
